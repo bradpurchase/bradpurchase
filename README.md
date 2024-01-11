@@ -5,7 +5,7 @@ src="https://github-readme-stats.vercel.app/api?username=bradpurchase&show_icons
 />
 
 - ✨ Pronouns: he/him
-- 💼 I work [@lightspeed](https://github.com/lightspeed) as a Senior Software Developer
-- 💻 I love to code in Ruby (Rails ❤️), TypeScript Go, and Swift
+- 💼 I work [@lightspeed](https://github.com/lightspeed) as a Staff Software Developer
+- 💻 I love to code in Ruby (Rails ❤️), TypeScript, Go, and Swift
 - 🎨 Occasionally I design things too!
 - 👀 Always working on fun side projects, some of them even see the light of day, like [https://groceryti.me](GroceryTime)
